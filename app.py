@@ -3,7 +3,7 @@ import calendar
 
 st.set_page_config(
     page_title="Planorama",
-    page_icon="calendar.png",
+    page_icon="📅",
     menu_items={
         "About":"""Welcome to Planorama, the ultimate calendar experience. View and manage your dates with our sleek and intuitive interface, tailored for seamless year and month exploration."""
     }
